@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+	font-family: 'Roboto';
+}
+.lab{
+	background-color: rgba(0,0,0,0.9);
+	padding: 0.5%;
+}
+
+.lab a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 2%;
+}
+.lab a:hover{
+	color: green;
+
+}
+
+.lab img{
+	vertical-align: middle;
+}
+.home{
+	margin-left: 40%;
+}
+body{
+	background-image: url('https://img.freepik.com/free-photo/grayscale-shot-books_181624-45954.jpg?size=626&ext=jpg&ga=GA1.1.1444119140.1671213698&semt=ais');
+	background-size: cover;
+	height: 100vh;
+}
+.second{
+	margin: 15%;
+	margin-left: 30%;
+}
+h1{
+	color: white;
+	font-size: 50px;
+}
+button{
+color: white;
+background-color: black;
+margin-right: 2%;
+padding: 3% 3%;
+border-radius: 5px;
+border: none;
+font-size: 1em;
+}
+button:hover{
+	background-color: blue;
+	border: 1px solid white;
+}
+.btn1{
+	margin-left: 15%;
+}
+
